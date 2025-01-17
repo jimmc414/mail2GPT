@@ -51,7 +51,7 @@ A scalable email automation system that combines GPT-4's analysis capabilities w
 
 1. Clone the repository:
 ```bash
-git clone jimmc414\mail2GPT
+git clone https://github.com/jimmc414/mail2GPT.git
 cd mail2GPT
 ```
 
