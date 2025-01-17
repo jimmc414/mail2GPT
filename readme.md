@@ -1,6 +1,6 @@
 # mail2GPT: AI Email Analysis and Response Pipeline with GPT-4 and o1 Pro
 
-A scalable email automation system that combines GPT-4's analysis capabilities with o1 Pro's advanced response generation to deliver intelligent, context-aware email responses. The system processes incoming emails and attachments, analyzes them using GPT-4, and leverages o1 Pro's sophisticated models to generate tailored, professional responses.
+A scalable email automation system that combines GPT-4's filetype handling with o1 Pro's response generation to deliver context-aware email responses. The system processes incoming emails and attachments, analyzes them using GPT-4, and leverages o1 Pro's models to generate responses.
 
 ## Core Components
 
