@@ -51,8 +51,8 @@ A scalable email automation system that combines GPT-4's analysis capabilities w
 
 1. Clone the repository:
 ```bash
-git clone <repository-url>
-cd email-automation
+git clone jimmc414\mail2GPT
+cd mail2GPT
 ```
 
 2. Set up Python environment:
@@ -105,11 +105,18 @@ QSTASH_NEXT_SIGNING_KEY=your_next_signing_key
 ## Project Structure
 
 ```
-email-automation/
+mail2GPT/
 ├── app.py              # Main Flask application
 ├── workers.py          # QStash worker process
 ├── do_spaces.py        # DO Spaces integration
 ├── gpt_processing.py   # GPT-4 analysis
+├── readme.md           # readme
+├── architecture.md     # architecture document
+├── implementation.md   # step by step implementation guide
+├── overview.md         # project description
+├── prompt.md           # initial buidl prompt
+├── todos.md            # todos
+├── code_review.md      # Code review
 ├── o1_client.py        # o1 Pro API integration
 ├── resend_client.py    # Email sending
 └── requirements.txt    # Dependencies
